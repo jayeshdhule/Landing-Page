@@ -34,7 +34,6 @@ const Header = () => {
           <a href="#schools" className="hover:text-[#5b2aa6] transition-colors">Participating Schools</a>
           <a href="#cities" className="hover:text-[#5b2aa6] transition-colors">Cities</a>
           <a href="#why" className="hover:text-[#5b2aa6] transition-colors">Why Boarding</a>
-          <a href="#gallery" className="hover:text-[#5b2aa6] transition-colors">Gallery</a>
         </nav>
 
         {/* Register button */}
@@ -61,7 +60,6 @@ const Header = () => {
           <a href="#schools" className="block py-2 text-[#1a0a3a]" onClick={() => setOpen(false)}>Participating Schools</a>
           <a href="#cities" className="block py-2 text-[#1a0a3a]" onClick={() => setOpen(false)}>Cities</a>
           <a href="#why" className="block py-2 text-[#1a0a3a]" onClick={() => setOpen(false)}>Why Boarding</a>
-          <a href="#gallery" className="block py-2 text-[#1a0a3a]" onClick={() => setOpen(false)}>Gallery</a>
           <a href="#enquire" className="btn-arrow w-full justify-center" onClick={() => setOpen(false)}>
             <span className="arrow-box"><ArrowUpRight size={16} /></span>
             <span className="label-box">REGISTER NOW</span>

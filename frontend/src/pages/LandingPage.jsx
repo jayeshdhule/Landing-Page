@@ -6,7 +6,6 @@ import StatsAndAbout from "../components/StatsAndAbout";
 import ChooseSchoolSection from "../components/ChooseSchoolSection";
 import WhyBoardingSection from "../components/WhyBoardingSection";
 import ExhibitionSlider from "../components/ExhibitionSlider";
-import GallerySection from "../components/GallerySection";
 import EmpowerAndSteps from "../components/EmpowerAndSteps";
 import Footer from "../components/Footer";
 
@@ -22,7 +21,6 @@ const LandingPage = () => {
         <ChooseSchoolSection />
         <WhyBoardingSection />
         <ExhibitionSlider />
-        <GallerySection />
         <EmpowerAndSteps />
       </main>
       <Footer />

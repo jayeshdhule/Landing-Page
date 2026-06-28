@@ -51,7 +51,6 @@ const Footer = () => {
                 <li><a href="#schools" className="hover:text-[#f5c98c]">Participating Schools</a></li>
                 <li><a href="#cities" className="hover:text-[#f5c98c]">Cities</a></li>
                 <li><a href="#why" className="hover:text-[#f5c98c]">Why Boarding</a></li>
-                <li><a href="#gallery" className="hover:text-[#f5c98c]">Gallery</a></li>
               </ul>
             </div>
 
